@@ -16,6 +16,8 @@ assets/*
 !assets/js/
 !assets/scripts/
 !assets/server/
+!assets/img/
+!assets/fonts/
  
 # ====================
 # Other Folder Rules
