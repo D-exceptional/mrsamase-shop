@@ -4169,7 +4169,7 @@ ol {
 	margin: 0px 5px;
 	scroll-snap-align: center; /* Optional: snap to center */
 	border-radius: 8px;
-	border: 2px solid rgb(15, 23, 42);
+	/*border: 2px solid rgb(15, 23, 42);*/
 }
 
 .mix{
